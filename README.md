@@ -1,7 +1,10 @@
 # CheatSheets
 
-- [Privilege Escalation Cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/Privilege-Escalation)
-- [Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet](https://github.com/OlivierLaflamme/Cheatsheet-God)
+## 🔮 PenTest: Penetration Testing
+
+- Privilege Escalation:
+  - [Privilege Escalation Cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/Privilege-Escalation)
+  - [Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet](https://github.com/OlivierLaflamme/Cheatsheet-God)
 
 
 ## 📚 Table of Contents
